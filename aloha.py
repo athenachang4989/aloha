@@ -1,0 +1,8 @@
+name = input('您的大名：')
+print('aloha',name)
+age = input('請輸入你的年齡：')
+print(age,'歲')
+height = input('請輸入你的身高：')
+print(height,'cm')
+weight = input('請輸入你的體重：')
+print(weight,'kg')
